@@ -2,7 +2,7 @@
 
 A machine learning application that predicts an individual's risk of heart disease based on clinical, lifestyle, and wearable-device data. The project includes a full training pipeline (Jupyter Notebook), a trained neural network model, a desktop GUI application, and a **web app** for real-time predictions.
 
-**🔗 Live demo:** _add your deployed Streamlit/Hugging Face link here after deploying (see below)_
+**🔗 https://heart-attack-risk-predictor-mahan-liaghatmand.streamlit.app/
 
 ---
 
